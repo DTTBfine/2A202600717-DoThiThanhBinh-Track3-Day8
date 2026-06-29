@@ -38,4 +38,4 @@ htmlcov/
 Thumbs.db
 
 # Hidden grading — do NOT distribute to students
-data/grading/
+# data/grading/
